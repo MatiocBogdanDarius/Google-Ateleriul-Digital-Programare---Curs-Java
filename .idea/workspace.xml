@@ -2,52 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc01f858-1f7b-47aa-acd7-431571598b8a" name="Changes" comment="add curs02 code">
-      <change afterPath="$PROJECT_DIR$/message.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phone.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs01/basics/challenge2/FooBarQix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs01/basics/challenge2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs01/basics/challenge3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs01/basics/challenge3/PairOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs01/basics/challenge4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs01/basics/challenge4/PairOf3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge1/BoxingMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge1/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge2/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge2/Award.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge2/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge2/Studio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge3/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge3/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs02/oo/challenge3/Spider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge1/ArrayCustomIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge2/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge2/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge2/SortStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge3/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge3/RealEstateAgentProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/challenge3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/harcode/chalange1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs03/design_pattern/harcode/chalange2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words_alpha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curs01_challenge5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge5/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/curs01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/curs02/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs01/basics/challenge1/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/curs02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/curs02/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +57,13 @@
       <recent name="curs04.exception_and_io.challenge1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.curs04.exception_and_io.challenge3.Main">
-    <configuration name="curs03.design_pattern.challenge2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs03.design_pattern.challenge2.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs04.exception_and_io.challenge5.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs03.design_pattern.challenge2.*" />
+          <option name="PATTERN" value="curs04.exception_and_io.challenge5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.curs04.exception_and_io.challenge3.Main" />
         <item itemvalue="Application.curs04.exception_and_io.challenge2.Main" />
         <item itemvalue="Application.curs04.exception_and_io.challenge1.Main" />
         <item itemvalue="Application.curs03.design_pattern.challenge3.Main" />
-        <item itemvalue="Application.curs03.design_pattern.challenge2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +146,7 @@
       <workItem from="1669052343438" duration="1375000" />
       <workItem from="1670437133585" duration="2450000" />
       <workItem from="1671104994538" duration="620000" />
-      <workItem from="1671648505814" duration="18299000" />
+      <workItem from="1671648505814" duration="21263000" />
     </task>
     <task id="LOCAL-00001" summary="add curs02 code">
       <created>1669022837540</created>

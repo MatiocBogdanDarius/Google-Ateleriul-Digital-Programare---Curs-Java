@@ -2,32 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc01f858-1f7b-47aa-acd7-431571598b8a" name="Changes" comment="add curs02 code">
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/ExchangeDesk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/ExchangeRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/RON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/USD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Boot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/ColorsDoNotMatchException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Heels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Running.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Shoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/SizesDoNotMatchException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/GenericList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/GenericNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/IGenericList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/IGenericNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge4/ArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge4/IArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge5/ArrayNotSortedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge5/GenericBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge5/NotComparableTypeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge9/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,20 +58,20 @@
       <recent name="D:\Learn\Google Atelierul Digital Programare - Curs Java\GoogleAtelierulDigitalProgramare-CursJava\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="curs05.generics.challenge5" />
-      <recent name="curs05.generics.challenge4" />
-      <recent name="curs05.generics.challenge3" />
-      <recent name="curs05.generics.challenge2" />
-      <recent name="curs05.generics.challenge1" />
+      <recent name="curs06.collections.challenge9" />
+      <recent name="curs06.collections.challenge8" />
+      <recent name="curs06.collections.challenge7" />
+      <recent name="curs06.collections.challenge6" />
+      <recent name="curs06.collections.challenge5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.curs05.generics.challenge5.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs04.exception_and_io.challenge5.Main" />
+  <component name="RunManager" selected="Application.curs06.collections.challenge6.Main">
+    <configuration name="curs06.collections.challenge2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge2.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs04.exception_and_io.challenge5.*" />
+          <option name="PATTERN" value="curs06.collections.challenge2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs05.generics.challenge1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs05.generics.challenge1.Main" />
+    <configuration name="curs06.collections.challenge3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge3.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs05.generics.challenge1.*" />
+          <option name="PATTERN" value="curs06.collections.challenge3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs05.generics.challenge2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs05.generics.challenge2.Main" />
+    <configuration name="curs06.collections.challenge4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge4.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs05.generics.challenge2.*" />
+          <option name="PATTERN" value="curs06.collections.challenge4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs05.generics.challenge3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs05.generics.challenge3.Main" />
+    <configuration name="curs06.collections.challenge5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge5.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs05.generics.challenge3.*" />
+          <option name="PATTERN" value="curs06.collections.challenge5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs05.generics.challenge5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs05.generics.challenge5.Main" />
+    <configuration name="curs06.collections.challenge6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge6.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs05.generics.challenge5.*" />
+          <option name="PATTERN" value="curs06.collections.challenge6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.curs05.generics.challenge5.Main" />
-        <item itemvalue="Application.curs05.generics.challenge3.Main" />
-        <item itemvalue="Application.curs05.generics.challenge2.Main" />
-        <item itemvalue="Application.curs05.generics.challenge1.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.curs06.collections.challenge6.Main" />
+        <item itemvalue="Application.curs06.collections.challenge5.Main" />
+        <item itemvalue="Application.curs06.collections.challenge4.Main" />
+        <item itemvalue="Application.curs06.collections.challenge3.Main" />
+        <item itemvalue="Application.curs06.collections.challenge2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +154,7 @@
       <workItem from="1669052343438" duration="1375000" />
       <workItem from="1670437133585" duration="2450000" />
       <workItem from="1671104994538" duration="620000" />
-      <workItem from="1671648505814" duration="34381000" />
+      <workItem from="1671648505814" duration="40936000" />
     </task>
     <task id="LOCAL-00001" summary="add curs02 code">
       <created>1669022837540</created>

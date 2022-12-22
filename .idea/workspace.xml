@@ -2,11 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc01f858-1f7b-47aa-acd7-431571598b8a" name="Changes" comment="add curs02 code">
-      <change afterPath="$PROJECT_DIR$/curs01_challenge5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge5/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/ExchangeDesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/ExchangeRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/RON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge1/USD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Boot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/ColorsDoNotMatchException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Heels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Running.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/Shoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge2/SizesDoNotMatchException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/GenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/GenericNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/IGenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/IGenericNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge4/ArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge4/IArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge5/ArrayNotSortedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge5/GenericBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs05/generics/challenge5/NotComparableTypeException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs04/exception_and_io/challenge5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +66,23 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="curs05.generics.challenge2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Learn\Google Atelierul Digital Programare - Curs Java\GoogleAtelierulDigitalProgramare-CursJava" />
       <recent name="D:\Learn\Google Atelierul Digital Programare - Curs Java\GoogleAtelierulDigitalProgramare-CursJava\src\curs04\exception_and_io" />
       <recent name="D:\Learn\Google Atelierul Digital Programare - Curs Java\GoogleAtelierulDigitalProgramare-CursJava\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="curs04.exception_and_io.challenge5" />
-      <recent name="curs04.exception_and_io.challenge4" />
-      <recent name="curs04.exception_and_io.challenge3" />
-      <recent name="curs04.exception_and_io.challenge2" />
-      <recent name="curs04.exception_and_io.challenge1" />
+      <recent name="curs05.generics.challenge5" />
+      <recent name="curs05.generics.challenge4" />
+      <recent name="curs05.generics.challenge3" />
+      <recent name="curs05.generics.challenge2" />
+      <recent name="curs05.generics.challenge1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.curs05.generics.challenge5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="curs04.exception_and_io.challenge5.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
@@ -71,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs03.design_pattern.challenge3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs03.design_pattern.challenge3.Main" />
+    <configuration name="curs05.generics.challenge1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs05.generics.challenge1.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs03.design_pattern.challenge3.*" />
+          <option name="PATTERN" value="curs05.generics.challenge1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs04.exception_and_io.challenge1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs04.exception_and_io.challenge1.Main" />
+    <configuration name="curs05.generics.challenge2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs05.generics.challenge2.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs04.exception_and_io.challenge1.*" />
+          <option name="PATTERN" value="curs05.generics.challenge2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs04.exception_and_io.challenge2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs04.exception_and_io.challenge2.Main" />
+    <configuration name="curs05.generics.challenge3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs05.generics.challenge3.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs04.exception_and_io.challenge2.*" />
+          <option name="PATTERN" value="curs05.generics.challenge3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs04.exception_and_io.challenge3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs04.exception_and_io.challenge3.Main" />
+    <configuration name="curs05.generics.challenge5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs05.generics.challenge5.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs04.exception_and_io.challenge3.*" />
+          <option name="PATTERN" value="curs05.generics.challenge5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.curs05.generics.challenge5.Main" />
+        <item itemvalue="Application.curs05.generics.challenge3.Main" />
+        <item itemvalue="Application.curs05.generics.challenge2.Main" />
+        <item itemvalue="Application.curs05.generics.challenge1.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.curs04.exception_and_io.challenge3.Main" />
-        <item itemvalue="Application.curs04.exception_and_io.challenge2.Main" />
-        <item itemvalue="Application.curs04.exception_and_io.challenge1.Main" />
-        <item itemvalue="Application.curs03.design_pattern.challenge3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +171,7 @@
       <workItem from="1669052343438" duration="1375000" />
       <workItem from="1670437133585" duration="2450000" />
       <workItem from="1671104994538" duration="620000" />
-      <workItem from="1671648505814" duration="21263000" />
+      <workItem from="1671648505814" duration="34381000" />
     </task>
     <task id="LOCAL-00001" summary="add curs02 code">
       <created>1669022837540</created>

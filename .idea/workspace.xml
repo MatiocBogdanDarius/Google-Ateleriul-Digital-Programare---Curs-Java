@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc01f858-1f7b-47aa-acd7-431571598b8a" name="Changes" comment="add curs02 code">
-      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs06/collections/challenge9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/adapter/ITemperatureReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/adapter/TemperatureReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/adapter/Thermometer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/adapter/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/composite/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/composite/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/composite/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/composite/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoogleAtelierulDigitalProgramare-CursJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleAtelierulDigitalProgramare-CursJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,38 +41,47 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Learn/Google Atelierul Digital Programare - Curs Java/GoogleAtelierulDigitalProgramare-CursJava",
-    "nodejs_package_manager_path": "npm"
+    "last_opened_file_path": "D:/Learn/Google Atelierul Digital Programare - Curs Java/GoogleAtelierulDigitalProgramare-CursJava/src/project/adapter",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="project.adapter" />
+      <recent name="project.observer" />
+      <recent name="curs07.concurrency.challenge2" />
       <recent name="curs05.generics.challenge2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learn\Google Atelierul Digital Programare - Curs Java\GoogleAtelierulDigitalProgramare-CursJava\src\curs09\reactive" />
       <recent name="D:\Learn\Google Atelierul Digital Programare - Curs Java\GoogleAtelierulDigitalProgramare-CursJava" />
       <recent name="D:\Learn\Google Atelierul Digital Programare - Curs Java\GoogleAtelierulDigitalProgramare-CursJava\src\curs04\exception_and_io" />
       <recent name="D:\Learn\Google Atelierul Digital Programare - Curs Java\GoogleAtelierulDigitalProgramare-CursJava\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="curs06.collections.challenge9" />
-      <recent name="curs06.collections.challenge8" />
-      <recent name="curs06.collections.challenge7" />
-      <recent name="curs06.collections.challenge6" />
-      <recent name="curs06.collections.challenge5" />
+      <recent name="curs07.concurrency.challenge1" />
+      <recent name="curs09.reactive.challenge6" />
+      <recent name="curs09.reactive.challenge5" />
+      <recent name="curs09.reactive.challenge4" />
+      <recent name="curs08.functional.challenge3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.curs06.collections.challenge6.Main">
-    <configuration name="curs06.collections.challenge2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge2.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs08.functional.challenge3.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs06.collections.challenge2.*" />
+          <option name="PATTERN" value="curs08.functional.challenge3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs06.collections.challenge3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge3.Main" />
+    <configuration name="curs08.functional.challenge1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curs08.functional.challenge1.Main" />
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs06.collections.challenge3.*" />
+          <option name="PATTERN" value="curs08.functional.challenge1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,52 +102,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs06.collections.challenge4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge4.Main" />
+    <configuration name="Main (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs06.collections.challenge4.*" />
+          <option name="PATTERN" value="curs08.functional.challenge2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="curs08.functional.challenge2" />
+      <option name="MAIN_CLASS_NAME" value="curs08.functional.challenge2.Main" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs06.collections.challenge5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge5.Main" />
+    <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs06.collections.challenge5.*" />
+          <option name="PATTERN" value="curs08.functional.challenge1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="curs08.functional.challenge1" />
+      <option name="MAIN_CLASS_NAME" value="curs08.functional.challenge1.Main" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="curs06.collections.challenge6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curs06.collections.challenge6.Main" />
+    <configuration name="Main.consumer_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GoogleAtelierulDigitalProgramare-CursJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curs06.collections.challenge6.*" />
+          <option name="PATTERN" value="curs08.functional.challenge1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="curs08.functional.challenge1" />
+      <option name="MAIN_CLASS_NAME" value="curs08.functional.challenge1.Main" />
+      <option name="METHOD_NAME" value="consumer_1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.curs06.collections.challenge6.Main" />
-        <item itemvalue="Application.curs06.collections.challenge5.Main" />
-        <item itemvalue="Application.curs06.collections.challenge4.Main" />
-        <item itemvalue="Application.curs06.collections.challenge3.Main" />
-        <item itemvalue="Application.curs06.collections.challenge2.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Main (1)" />
+        <item itemvalue="JUnit.Main" />
+        <item itemvalue="JUnit.Main.consumer_1" />
+        <item itemvalue="Application.curs08.functional.challenge1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +171,12 @@
       <workItem from="1669052343438" duration="1375000" />
       <workItem from="1670437133585" duration="2450000" />
       <workItem from="1671104994538" duration="620000" />
-      <workItem from="1671648505814" duration="40936000" />
+      <workItem from="1671648505814" duration="41150000" />
+      <workItem from="1671741102175" duration="2659000" />
+      <workItem from="1671743853807" duration="2467000" />
+      <workItem from="1671749232379" duration="4791000" />
+      <workItem from="1673299580605" duration="12000" />
+      <workItem from="1674062760488" duration="4126000" />
     </task>
     <task id="LOCAL-00001" summary="add curs02 code">
       <created>1669022837540</created>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-43.0" y="-14.5">project.composite.Menu</node>
+    <node x="-57.5" y="41.5">project.composite.MenuItem</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="project.composite.Menu" target="project.composite.MenuItem" relationship="GENERALIZATION">
+      <point x="0.0" y="14.5" />
+      <point x="0.0" y="-14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.0" showDependencies="false" x="400.0" y="-40.0" />
+  <SelectedNodes>
+    <node>project.composite.MenuItem</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

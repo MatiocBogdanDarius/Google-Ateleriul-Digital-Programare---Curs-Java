@@ -1,0 +1,3 @@
+Am ales sa implementez un design pattern structural (Composite).
+Pentru a-l exemplifica am ales sa implemntez un meniu. Putem obseva ca meniurile restaurantelor au atat produse simple (exemplu: sucurile, sosurile, cartofi), cat si preparate care sunt compuse din produse simple (exemplu: cartofi cu carne), cat si meniuri (precum meniul zilei), iar toate acestea sunt inglobate de meniul restaurantului.
+Composite ne ajuta sa formam un astfel de meniu in care avem atat item-uri siple cat si menuri cu preparate.
